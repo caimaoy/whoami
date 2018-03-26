@@ -1,80 +1,68 @@
 ---
 layout: cv
-title: Nimo's CV
+title: caimaoy's CV
 pdf: true
 ---
-# Wode __Ni__
+# 陈阅 (__caimaoy__)
 
 <div id="webaddress">
 <i class="fi-home" style="margin-left:1em"></i>
-<a href="http://columbia.edu/~wn2155" style="margin-left:0.5em">columbia.edu/~wn2155</a>
+<a href="http://www.caimaoy.com" style="margin-left:0.5em">www.caimaoy.com</a>
 <i class="fi-mail" style="margin-left:1em"></i>
-<a href="wn2155@columbia.edu" style="margin-left:0.5em">wn2155@columbia.edu</a>
+<a href="mailto:i@caimaoy.com" style="margin-left:0.5em">i@caimaoy.com</a>
 </div>
 
-## Education
+## 教育经历
 
-### __Columbia University__ `2016.9 - Present`
+### __华南理工大学__ `2011.9 - 2014.2`
 ```
-New York, NY
+硕士
 ```
-- B.S. in Computer Science
-- Major GPA: __4.0__, Cumulative GPA: __3.97__
-- Vision, Graphics track
+- 计算机应用技术
 
-### __Dickinson College__ `2013.9 - 2016.5`
+### __华南理工大学__ `2007.9 - 2011.6`
 ```
-Carlisle, PA
+本科
 ```
-- B.S. in Computer Science
-- Major GPA: __4.0__, Cumulative GPA: __3.93__
-- Computer Science Departmental Honors
+- 计算机科学与技术
 
-## Publications
+## 工作经历
 
-### [__Substance and Style: domain-specific languages for mathematical diagrams__](https://2017.splashcon.org/event/dsldi-2017-substance-and-style-domain-specific-languages-for-mathematical-diagrams)
-__Wode Ni\*__, Katherine Ye\*, Joshua Sunshine, Jonathan Aldrich, and Keenan Crane.<br>  _Domain-Specific Language Design and Implementation (DSLDI 2017),  co-located with SPLASH._ <br>
-[[PDF](assets/dsldi.pdf)]
-[[slides](assets/dsldi-presentation.pdf)]
-[[www](http://penrose.ink)]
-[[repo](https://github.com/penrose/penrose)]
+### __小赢科技__  _测试开发_ `2015.12 - 至今`
+<br>__接口测试平台__<br>
+基于 Flask，功能类似于 postman，像不同环境微服务发送不同私有协议，管理服务、接口和用例，同时提供远程调用方法，同时提供协议兼容性检测<br>
+<br>__mock 平台__ <br>
+基于 Flask，模拟第三方平台（sina，支付渠道，黄金公司，银行，JD 等）通信交互，实现模拟响应、回调、透传、拦截等功能<br>
+<br>__私有协议性能测试工具__ <br>
+基于 Python3 asyncio 实现对于后台服务私有协议压测，结果上报和展示<br>
 
-### [__Whiteboard Scanning Using Super-Resolution__](http://scholar.dickinson.edu/student_honors/221/)
-__Wode Ni__.<br> _Dickinson College Honors Theses. Paper 221._<br>
-[[PDF](assets/superres.pdf)]
-
-## Experience
-
-### __Carnegie Mellon University, Research Experiences for Undergraduate__  `2017.5 - 2017.8`
-_Research Assistant_<br>
-__Penrose__ is a system that automatically visualizes mathematics. The system, comprised of two domain-specific languages: __Substance__ and __Style__. Co-advised by [Jonathan Aldrich](https://www.cs.cmu.edu/~./aldrich/), [Keenan Crane](https://www.cs.cmu.edu/~kmcrane/), [Joshua Sunshine](http://www.cs.cmu.edu/~jssunshi/), and [Katherine Ye](https://www.cs.cmu.edu/~kqy/), I designed and implemented the Style language, and extended the Substance language to support functions and logically quantified statements.
-
-### __Columbia Univeristy, Computer Graphics and User Interfaces Lab__ `2017.1 - 2017.5`
-_Research Assistant_<br>
-Worked with prof. Steven Feiner, on __Cyber Affordance Visualization in Augumented Reality__ project. Developed a Microsoft Hololens application that visualizes the Columbia campus in AR environment.
-
-### __AsiaInfo__ `2015.6 - 2015.8`
-_Software Engineering Intern_<br>
-Worked on server-side web applications and server deployment tools.
+<br>__其他__ <br>
+- 搭建 python 私有仓库
+- 编写私有库，如：私有协议（python版本）、rpc 调用库(远程调用、执行命令、db 查询等)、命令行工具(远程调用客户端和脚本维)
+- python 模块远程加载库
+- git hook， gitlib webhook 对协议兼容进行检查，通知告警
+- ELK + prometheus + grafana 进行机器和服务监控
 
 
-## Teaching
+### __百度__  _测试开发_ `2014.4 - 2015.10`
+<br>__持续集成__<br>
+基于 Jenkins，每日构建<br>
 
-Teaching Assistant, __Programming Languages and Translators (COMS 4115)__ `Columbia, 2018` <br>
-Teaching Assistant, __Introduction to Java II (COMP 132)__ `Dickinson, 2016` <br>
-Peer Tutor, __Data Structures and Problem Solving (COMP 232)__ `Dickinson, 2016` <br>
-Computer Lab Consultant `DIckinson, 2014 - 2016` <br>
+<br>__命令行工具__<br>
+基于 PyQt 可以执行一些脚本
 
 
-## Honors & Awards
+## 经历
 
-Tau Beta Pi, Engineering Honor Society `Columbia, 2017` <br>
-Computer Science Departmental Honor `DIckinson, 2016` <br>
-Pi Mu Epsilon, Mathematics Honor Society `DIckinson, 2016` <br>
-Upsilon Pi Epsilon, Computer Science Honor Society  `DIckinson, 2016` <br>
-Alpha Lambda Delta, First year Honor Society `Dickinson, 2013`<br>
-John Montgomery Scholarship `DIckinson, 2013` <br>
+### [TesterHome 深圳线下沙龙第五期——金融专场活动](https://testerhome.com/topics/11003)
+[[PPT](https://pan.baidu.com/s/1sl9fwoX#list/path=%2FTesterHome%E7%AC%AC%E4%BA%94%E6%9C%9F%E9%87%91%E8%9E%8D%E4%B8%93%E5%9C%BAPPT)]
+
+## 业余
+
+### [__个人采坑日记__](http://caimaoy.com/caimaoy_gitbook/)
+### [__python 小抄__](http://caimaoy.com/pysheeet/)
+
 
 <!-- ### Footer
 
-Last updated: May 2013 -->
+Last updated: May 2018 -->
