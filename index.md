@@ -30,7 +30,7 @@ pdf: true
 
 ### __小赢科技__  _测试开发_ `2015.12 - 至今`
 <br>__接口测试平台__<br>
-基于 Flask，功能类似于 postman，像不同环境微服务发送不同私有协议，管理服务、接口和用例，同时提供远程调用方法，同时提供协议兼容性检测<br>
+基于 Flask，功能类似于 postman，像不同环境微服务发送不同私有协议，管理服务、接口和用例，同时提供远程调用方法，协议兼容性检测，以及对多分支协议支持<br>
 <br>__mock 平台__ <br>
 基于 Flask，模拟第三方平台（sina，支付渠道，黄金公司，银行，JD 等）通信交互，实现模拟响应、回调、透传、拦截等功能<br>
 <br>__私有协议性能测试工具__ <br>
@@ -38,7 +38,7 @@ pdf: true
 
 <br>__其他__ <br>
 - 搭建 python 私有仓库
-- 编写私有库，如：私有协议（python版本）、rpc 调用库(远程调用、执行命令、db 查询等)、命令行工具(远程调用客户端和脚本维)
+- 编写私有库，如：私有协议（python版本）、rpc 调用库(远程调用、执行命令、db 查询等)、命令行工具(远程调用客户端和脚本维护)，[apollo 客户端](https://github.com/filamoon/pyapollo/graphs/contributors)公司版
 - python 模块远程加载库
 - git hook， gitlib webhook 对协议兼容进行检查，通知告警
 - ELK + prometheus + grafana 进行机器和服务监控
@@ -54,13 +54,14 @@ pdf: true
 
 ## 经历
 
-### [TesterHome 深圳线下沙龙第五期——金融专场活动](https://testerhome.com/topics/11003)
+### [TesterHome 深圳线下沙龙第五期——金融专场活动 讲师](https://testerhome.com/topics/11003)
 [[PPT](https://pan.baidu.com/s/1sl9fwoX#list/path=%2FTesterHome%E7%AC%AC%E4%BA%94%E6%9C%9F%E9%87%91%E8%9E%8D%E4%B8%93%E5%9C%BAPPT)]
 
 ## 业余
 
 ### [__个人采坑日记__](http://caimaoy.com/caimaoy_gitbook/)
 ### [__python 小抄__](http://caimaoy.com/pysheeet/)
+### 炉石传说·传说玩家
 
 
 <!-- ### Footer
