@@ -54,8 +54,7 @@ pdf: true
 
 ## 经历
 
-### [TesterHome 深圳线下沙龙第五期——金融专场活动 讲师](https://testerhome.com/topics/11003)
-[[PPT](https://pan.baidu.com/s/1sl9fwoX#list/path=%2FTesterHome%E7%AC%AC%E4%BA%94%E6%9C%9F%E9%87%91%E8%9E%8D%E4%B8%93%E5%9C%BAPPT)]
+### [TesterHome 深圳线下沙龙第五期——金融专场活动 讲师](https://testerhome.com/topics/11003) [[PPT](https://pan.baidu.com/s/1sl9fwoX#list/path=%2FTesterHome%E7%AC%AC%E4%BA%94%E6%9C%9F%E9%87%91%E8%9E%8D%E4%B8%93%E5%9C%BAPPT)]
 
 ## 业余
 
