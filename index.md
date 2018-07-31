@@ -8,6 +8,8 @@ pdf: true
 <div id="webaddress">
 <i class="fi-home" style="margin-left:1em"></i>
 <a href="http://www.caimaoy.com" style="margin-left:0.5em">www.caimaoy.com</a>
+<i class="fi-web" style="margin-left:1em"></i>
+<a href="http://www.caimaoy.com/whoami" style="margin-left:0.5em">web</a>
 <i class="fi-mail" style="margin-left:1em"></i>
 <a href="mailto:i@caimaoy.com" style="margin-left:0.5em">i@caimaoy.com</a>
 </div>
@@ -60,7 +62,6 @@ pdf: true
 
 ### [__个人采坑日记__](http://caimaoy.com/caimaoy_gitbook/)
 ### [__python 小抄__](http://caimaoy.com/pysheeet/)
-### 炉石传说·传说玩家
 
 
 <!-- ### Footer
