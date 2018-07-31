@@ -62,6 +62,7 @@ pdf: true
 
 ### [__个人采坑日记__](http://caimaoy.com/caimaoy_gitbook/)
 ### [__python 小抄__](http://caimaoy.com/pysheeet/)
+### 炉石传说·传说玩家
 
 
 <!-- ### Footer
